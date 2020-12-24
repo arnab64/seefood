@@ -8,4 +8,4 @@ Steps (working on it)
  - Model deployment : fastAPI
  - Front-end : React.js
 
-Later : total replication of the app. And recreation of the classic scene.
+Later : total replication of the app. And recreation of the ['classic' scene from Silicon Valley!](https://www.youtube.com/watch?v=ACmydtFDTGs).
